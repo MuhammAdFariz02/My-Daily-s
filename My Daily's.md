@@ -16,3 +16,22 @@ Hari ini saya belajar menggunakan Obsidian, kemudian saya juga belajar menginteg
 - Lanjut selesaikan TUGAS Riset Teknologi Informasi (cetak PROPOSAL)
 - Lanjut buat tempat bibi padi
 - Commit harian [target : 3 commits / harian]
+
+[[______________________________________________________________________________________________]]
+# [Kamis, 19 Oktober 2023]
+
+## Cerita Hari Ini
+
+
+## Tugas
+- [ ] 
+- [ ] 
+- [ ] 
+
+## Gambar
+
+
+## Kegiatan Besok
+- 
+- 
+- Commit harian [target : 3 commits / harian]
